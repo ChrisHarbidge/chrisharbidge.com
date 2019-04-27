@@ -1,0 +1,72 @@
+.emailInput {
+  width: 65%;
+  font-size: 22px;
+  font-weight: 100;
+  font-family: proxima-nova;
+  border-width: 0;
+  border-bottom: 2px solid;
+}
+
+.emailInput:focus {
+  outline-width: 0;
+}
+
+.emailInputError {
+    width: 65%;
+    font-size: 22px;
+    font-weight: 100;
+    font-family: proxima-nova;
+    border-width: 0;
+    border-bottom: 2px solid;
+    border-color: red;
+}
+
+.emailInputError:focus {
+  outline-width: 0;
+}
+
+#emailAddress {
+    padding-top: 35vh
+}
+
+#emailsubmit {
+  font-family: proxima-nova;
+  font-size: 25px;
+  font-weight: 700;
+  border-style: solid;
+  width: 130px;
+  height: 50px;
+}
+
+.submitButton {
+  border-width: 5px;
+  border-color: black;
+  background-color: white;
+}
+
+.submitButton:hover {
+  background-color: black;
+  color: white;
+  transition: all 0.5s ease-in-out;
+}
+
+.successButton {
+  background-color: black;
+  border-color: black;
+  border-width: 5px;
+  color: white;
+  transition: all 0.5s ease-in-out;
+}
+
+.failureButton {
+
+}
+
+.inputWrapper {
+  padding-top: 50px;
+
+}
+
+textarea {
+  resize:none
+}

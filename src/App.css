@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+    font-family: 'proxima-nova';
+    font-style: oblique;
+    font-weight: 700;
+    src: url('./Fonts/Proxima-Nova-Bold.otf');
+}
+
+.emailform {
+  height: 100vh;
+}

@@ -1,0 +1,38 @@
+.pageheader {
+  font-size: 1.5em;
+  font-family: proxima-nova;
+  font-weight: 700;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  position: relative;
+
+}
+
+.Spacer {
+  display: inline-block;
+  margin-left: 85px;
+}
+
+.NameLink {
+  display: inline-block;
+}
+
+.contact {
+  font-size: 0.5em;
+  float: right;
+  margin-right: 50px;
+  display: inline-block;
+  transition: all 1.0s ease-in-out;
+  padding-top: 10px;
+}
+
+a.contactlink {
+  color: #b3b3b3;
+  text-decoration: none;
+}
+
+a.contactlink:hover {
+    color: black;
+    text-decoration: underline;
+    transition: all 1s ease;
+}
