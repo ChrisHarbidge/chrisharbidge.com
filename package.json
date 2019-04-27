@@ -4,13 +4,13 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "react": "^16.5.0",
-    "react-autosize-textarea": "^5.0.0",
-    "react-dom": "^16.5.0",
+    "react": "^16.8.6",
+    "react-autosize-textarea": "^5.0.1",
+    "react-dom": "^16.8.6",
     "react-particle-animation": "^1.0.1",
-    "react-particles-js": "^2.3.0",
+    "react-particles-js": "^2.6.0",
     "react-scripts": "1.1.5",
-    "react-scroll": "^1.7.10"
+    "react-scroll": "^1.7.11"
   },
   "scripts": {
     "start": "react-scripts start",
